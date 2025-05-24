@@ -1,7 +1,7 @@
 # Hi, I'm Amir 👋
 
 
-##### Currently working on a few of my ideas.
+### Currently working on a few of my ideas.
 
 
 

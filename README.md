@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
 - I go deep. I don’t learn tools by memorizing commands — I learn how they work.
 - Right now I’m focused on mastering Git, frontend architecture, and real-world DevOps.
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧠 How I Think
+## 🧠 How I Think
 
 - Code is not magic. It’s systems, logic, and design.
 - I care about clarity, structure, and solving real problems — not fancy buzzwords.

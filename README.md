@@ -1,7 +1,8 @@
 # Hi, I'm Amir 👋
 
 
-  Currently building something at a startup.
+##### Currently working on a few of my ideas.
+
 
 
 

@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Amir
 
 <h1 align="center">Hi, I'm Amir 👋</h1>
 

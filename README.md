@@ -7,7 +7,7 @@
 
 
 
-### 👨‍💻 Tech Stack
+## 👨‍💻 Tech Stack
 
 - Full-Stack Web (MERN)  
 - Mobile Development (Flutter)  
@@ -20,10 +20,10 @@
 
 
 
-### 🔗 Links
+## 🔗 Links
 
-<p align="center">
-  <a href="mailto:youremail@example.com">Email</a> 
+
+  <a href="mailto:youremail@example.com">Email</a> •
   <a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a>
-</p>
+
 

@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hey there, I'm Amir 👋</h1>
+<h1>Hey there, I'm Amir 👋</h1>
 
-<p align="center">
+<p>
   A deeply curious software engineer with a relentless drive to master systems, code, and infrastructure from the ground up.
 </p>
 

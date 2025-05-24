@@ -20,7 +20,7 @@
 
 
 
-<h2 align="ceneter">🔗 Links</h2>
+<h2 align="center">🔗 Links</h2>
 
 <p align="center">
   <a href="mailto:youremail@example.com">Email</a> •

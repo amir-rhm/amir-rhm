@@ -16,41 +16,53 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">سلام، من امیرم 👋</h1>
+<h1 align="center">Hey there, I'm Amir 👋</h1>
 
 <p align="center">
-  یک توسعه‌دهنده‌ی پرانرژی با تمرکز بر توسعه‌ی عمیق، واقعی و حرفه‌ای!
+  A deeply curious software engineer with a relentless drive to master systems, code, and infrastructure from the ground up.
 </p>
 
 ---
 
-### 🔧 مهارت‌ها و تکنولوژی‌ها
+### 🚀 About Me
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,git,linux,docker,kubernetes,mysql,mongodb,python,bash&perline=8)
-
----
-
-### 📌 درباره من
-- 🎯 هدفم: رسیدن به سطح متخصص واقعی در توسعه و زیرساخت
-- 🧠 یادگیری عمیق و جدی از پایه تا پیشرفته
-- 🌱 در حال حاضر روی یادگیری Git، UI و مفاهیم DevOps تمرکز دارم
-- 📫 چطور پیدام کنی؟ [اینجا ایمیل یا لینکدینتو بذار]
+- 🎯 I don't just write code — I understand how things work under the hood.
+- 🧠 I'm obsessed with deeply mastering software engineering, from low-level memory to scalable infrastructure.
+- 🔍 Currently diving into Git mastery, frontend architecture, and DevOps systems.
+- 🛠️ Focused on becoming a world-class, systems-aware developer who solves real problems with elegant code.
 
 ---
 
-### 📊 آمارها و فعالیت‌ها
+### 💡 Tech Stack & Tools
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amirusername&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirusername&layout=compact&theme=github_dark)
-
----
-
-### 🧰 ابزارهایی که کار می‌کنم باهاشون
-
-![Tools](https://github-profile-summary-cards.vercel.app/api/cards/tools-card?username=amirusername&theme=dark)
+<!-- Icons from https://skillicons.dev -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,bash,nginx,js,ts,react,nextjs,nodejs,nestjs,python,mysql,mongodb,vscode&perline=8" />
+</p>
 
 ---
 
-### ⚡ نکته شخصی
-> من فقط کد نمی‌زنم، من ساختار می‌سازم.
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirusername&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirusername&layout=compact&theme=dark" />
+</p>
+
+---
+
+### 🧠 Core Beliefs
+
+- Code is not art. It's architecture with rules, tradeoffs, and real-world impact.
+- Tools change. Deep understanding lasts.
+- Learn deeply. Think independently. Execute ruthlessly.
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:youremail@example.com">📧 Email</a> • 
+  <a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a> • 
+  <a href="https://twitter.com/yourhandle">Twitter</a>
+</p>

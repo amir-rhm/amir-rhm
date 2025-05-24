@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 # Amir
 
-<h1 align="center">Hi, I'm Amir 👋</h1>
+**Hi, I'm Amir 👋**
 
 <p align="center">
   I'm a developer who cares about fundamentals — not just using tools, but really understanding them.
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
